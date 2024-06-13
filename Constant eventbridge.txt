@@ -1,0 +1,5 @@
+{
+  "instanceRegion": "your instance region",
+  "instanceId": "instance id",
+  "instanceType": "instance type"
+}
